@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+pandas>=2.2,<4
+pandas-market-calendars>=4.6,<6
+scikit-learn>=1.5,<2
+pytest>=8,<10
